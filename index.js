@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Welcome to For Palestine"];
+const statusMessages = ["Welcome to For Palestine!", "DM this bot to open a ticket!", "Check out #living-in-palestine", "Check out #newsletter"];
 
 
 let currentIndex = 0;
